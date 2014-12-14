@@ -1,0 +1,21 @@
+/* 
+  DBCamera.strings
+  DBCamera
+
+  Created by iBo on 11/02/14.
+  Copyright (c) 2014 PSSD - Daniele Bogo. All rights reserved.
+*/
+
+"button.use" = "写真を使用";
+"button.retake" = "やり直し";
+
+"general.error.title" = "注意";
+"general.button.cancel" = "キャンセル";
+
+"pickerimage.nopolicy" = "写真を使用する許可をしてください。 設定 > プライバシー > 写真　から確認して下さい";
+"pickerimage.nophoto" = "ライブラリ内に画像がありません";
+
+"pagecontrol.text" = "%i of %i";
+
+"cropmode.title" = "縦横比";
+"cropmode.square" = "スクエア";
