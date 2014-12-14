@@ -23,8 +23,6 @@
 
 @interface DBCameraView () <UIGestureRecognizerDelegate>
 @property (nonatomic, strong) CALayer *focusBox, *exposeBox;
-@property (nonatomic, strong) UIView *topContainerBar;
-@property (nonatomic, strong) UIView *bottomContainerBar;
 
 // pinch
 @property (nonatomic, assign) CGFloat preScaleNum;

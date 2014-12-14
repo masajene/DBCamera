@@ -21,6 +21,16 @@
 @property (nonatomic, weak) id <DBCameraViewDelegate> delegate;
 
 /**
+ *  The Container Bar
+ */
+@property (nonatomic, strong) UIView *topContainerBar;
+
+/**
+ *  Control Bottom Bar
+ */
+@property (nonatomic, strong) UIView *bottomContainerBar;
+
+/**
  *  The button to open the Library
  */
 @property (nonatomic, strong) UIButton *photoLibraryButton;
